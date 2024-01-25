@@ -100,3 +100,14 @@ p{
     padding-top: 20px;
     color: white;
 }
+#foothead{
+    height: 700px;
+    width: 100%;
+    background-image: url(../img/pexels-photo-577777.jpeg);
+    background-size: cover;
+}
+.foothead{
+    height: 280px;
+    width: 280px;
+    margin-left: 90px;
+}
