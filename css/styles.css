@@ -88,6 +88,7 @@ h5{
     height: 40%;
     width: 300px;
     font-size: 20px;
+    margin-top: 70px;
 }
 p{
     padding-top: 20px;
@@ -105,6 +106,7 @@ p{
     width: 100%;
     background-image: url(../img/pexels-photo-577777.jpeg);
     background-size: cover;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2)
 }
 .foothead{
     height: 280px;
@@ -131,4 +133,30 @@ h4{
 }
 .foot-butt{
     font-size: 20px;
+}
+#footer{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    background-color: black;
+    padding: 40px;
+    gap: 40px;
+}
+.footer-1{
+    height: 350px;
+    width: 200px;
+    color: white;
+    font-size: 21px;
+}
+.footer-2{
+    color: white;
+    list-style: none;
+
+}
+h6{
+    font-size: 15px;
+    color: white;
+}
+.footer-3{
+
 }
