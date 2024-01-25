@@ -121,3 +121,14 @@ h4{
     font-size: 40px;
     color: white;
 }
+.foot-tag{
+    height: 60px;
+    width: 200px;
+    background-color: #62d8f4;
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 90px;
+}
+.foot-butt{
+    font-size: 20px;
+}
