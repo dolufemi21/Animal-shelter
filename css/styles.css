@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+#head{
+    height: 750px;
+    width: 100%;
+    background-image: url(../img/pexels-photo-220938.jpeg);
+    background-size: cover;
+}
+.logo{
+    height: 250px;
+    width: 250px;
+}
+.about{
+    float: right;
+    height: 100px;
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin-right: 50px;
+    padding-top: 50px;
+    color: white;
+}
+.hand{
+    height: 400px;
+    width: 200px;
+    margin-left: 960px;
+}
+h1{
+    font-size: 60px;
+    color: white;
+}
+.view{
+    height: 40px;
+    width: 200px;
+    float: right;
+    background-color: #62d8f4;
+    color: white;
+    text-align: center;
+    margin-right: 100px;
+    padding: 20px;
+}
