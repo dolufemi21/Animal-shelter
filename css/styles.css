@@ -40,3 +40,63 @@ h1{
     margin-right: 100px;
     padding: 20px;
 }
+.pet-stories{
+    height: 800px;
+    width: 100%;
+    display: flex;
+    padding-top: 15px;
+    justify-content: space-evenly;
+}
+.container{
+   display: flex;
+}
+.pet-story{
+    height: 600px;
+    width: 300px;
+    
+}
+.pet-story1{
+    height: 600px;
+    width: 300px;
+}
+.pet-story2{
+    height: 600px;
+    width: 300px;
+}
+.pet{
+    height: 40%;
+    width: 300px;
+    background-color:black;
+}
+.pet-img{
+    height: 100%;
+    width: 300px;
+}
+.DONATE{
+    height: 10%;
+    width: 300px;
+    background-color: #ff8f00;
+}
+h5{
+    color: white;
+    float: right;
+    font-size: 27px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.donate-note{
+    height: 40%;
+    width: 300px;
+    font-size: 20px;
+}
+p{
+    padding-top: 20px;
+}
+.donate-butt{
+    height: 10%;
+    width: 300px;
+    background-color: #62d8f4;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
