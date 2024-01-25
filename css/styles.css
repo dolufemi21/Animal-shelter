@@ -6,6 +6,7 @@
     width: 100%;
     background-image: url(../img/pexels-photo-220938.jpeg);
     background-size: cover;
+    padding-left: 40px;
 }
 .logo{
     height: 250px;
@@ -44,6 +45,12 @@ h1{
     text-align: center;
     margin-right: 100px;
     padding: 20px;
+}
+.view:hover{
+    text-decoration: underline;
+    color: #ff8f00;
+    cursor: pointer;
+    background-color: aliceblue;
 }
 .pet-stories{
     height: 800px;
@@ -106,10 +113,15 @@ p{
     padding-top: 20px;
     color: white;
 }
+.donate-butt :hover{
+    color: #62d8f4;
+    background-color: antiquewhite;
+    cursor: pointer;
+}
 #foothead{
     height: 700px;
     width: 100%;
-    background-image: url(../img/pexels-photo-577777.jpeg);
+    background-image: url(../img/vertical-closeup-shot-cute-yawning-st-bernard-dog-with-black-wall_181624-31979.avif);
     background-size: cover;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2)
 }
@@ -136,11 +148,16 @@ h4{
     padding-top: 30px;
     margin-left: 90px;
 }
+.foot-tag :hover{
+    background-color:white;  
+    cursor: pointer; 
+    color: #ff8f00;
+}
 .foot-butt{
     font-size: 20px;
 }
 #footer{
-    height: 400px;
+    height: 300px;
     display: flex;
     background-color: black;
     padding: 100px;
@@ -165,4 +182,24 @@ h6{
 }
 .footer-3{
     color: white;
+}
+.facebook{
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    margin-top: 30px;
+}
+.facebook :hover{
+    cursor: pointer;
+}
+.instagram{
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.instagram :hover{
+    cursor: pointer;
+    text-indent: 20px;
 }
